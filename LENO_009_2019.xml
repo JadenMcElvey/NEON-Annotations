@@ -1,0 +1,15 @@
+<annotation>
+  <folder>LENO</folder>
+  <filename>LENO_009_2019.tif</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>400</width>
+    <height>400</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
